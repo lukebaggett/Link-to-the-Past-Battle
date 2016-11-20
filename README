@@ -1,5 +1,8 @@
 HW9 README
 
+Quick Play:
+  Download LTTPBattle.gba and use this emulator: http://endrift.github.io/gbajs/
+
 Installation:
   Install these packages:
     libmagick++-dev libmagickwand-dev libmagickcore-dev
