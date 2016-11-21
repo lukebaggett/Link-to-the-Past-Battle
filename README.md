@@ -1,4 +1,10 @@
-This is a small homework assignment I did for the GA Tech CS 2110 course. It's a simple Game Boy Advance game written in C.
+#Link to the Past Battle
+
+![alt text](https://raw.githubusercontent.com/lukebaggett/Link-to-the-Past-Battle/master/images/gameplay.gif "Gameplay")
+
+This is a small homework assignment I did for the GA Tech CS 2110 course.
+
+It's a simple Game Boy Advance game written in C. Sprites and the background are taken from [this game](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past).
 
 ###Quick Play in a Web Browser
 Download [LTTPBattle.gba](https://github.com/lukebaggett/Link-to-the-Past-Battle/blob/master/LTTPBattle.gba) and use this emulator: http://endrift.github.io/gbajs/
