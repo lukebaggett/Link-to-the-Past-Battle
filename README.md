@@ -1,7 +1,7 @@
 This is a small homework assignment I did for the GA Tech CS 2110 course. It's a simple Game Boy Advance game written in C.
 
-###Quick Play
-Download LTTPBattle.gba and use this emulator: http://endrift.github.io/gbajs/
+###Quick Play in a Web Browser
+Download [LTTPBattle.gba](https://github.com/lukebaggett/Link-to-the-Past-Battle/blob/master/LTTPBattle.gba) and use this emulator: http://endrift.github.io/gbajs/
 
 ###Installation
     Install these packages:
