@@ -9,6 +9,8 @@ It's a simple Game Boy Advance game written in C. Sprites and the background are
 ###Quick Play in a Web Browser
 [Download LTTPBattle.gba](https://github.com/lukebaggett/Link-to-the-Past-Battle/raw/master/LTTPBattle.gba) and load it into this in-browser GBA emulator: http://endrift.github.io/gbajs/
 
+There are a few graphics issues when the game is played in gbajs which aren't a problem in the VBAM emulator.
+
 ###Installation
     Install these packages:
       libmagick++-dev libmagickwand-dev libmagickcore-dev
